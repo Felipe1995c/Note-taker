@@ -1,4 +1,4 @@
-# 11 Express.js: Note Taker
+# Express.js: Note Taker
 
 ## Your Task
 
@@ -115,14 +115,3 @@ This Challenge is graded based on the following criteria:
 Fulfilling the following can add up to 10 points to your grade. Note that the highest grade you can achieve is still 100:
 
 * Application allows users to delete notes.
-
-## Review
-
-You are required to submit BOTH of the following for review:
-
-* The URL of the functional, deployed application.
-
-* The URL of the GitHub repository, with a unique name and a README describing the project.
-
----
-© 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
