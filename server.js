@@ -1,7 +1,7 @@
 const express = require('express');
 const path = require('path');
 const bodyParser = require('body-parser');
-const apiRoutes = require('./routes/api');
+const routes = require('./public/routes/paths');
 
 const app = express();
 const PORT = process.env.PORT || 3000;
@@ -11,7 +11,7 @@ app.use(bodyParser.json());
 app.use(express.static(path.join(__dirname, 'public')));
 
 // API Routes
-app.use('/paths', apiRoutes);
+app.use('/paths', routes);
 
 // HTML Routes
 app.get('/', (req, res) => {
