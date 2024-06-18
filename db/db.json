@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": "b76525c2-265a-423c-b5b4-8b37f7f79721",
+    "title": "House",
+    "text": "Take the trash out \nMake the bed"
+  },
+  {
+    "id": "418329fe-19e1-4c11-b3e5-fe8b7e93f15e",
+    "title": "Lawn",
+    "text": "Cut the grass"
+  },
+  {
+    "id": "32c4fcc2-37d2-48a3-bb4e-49e4b09b3add",
+    "title": "Gym",
+    "text": "chest day \nfollowed by 30 min cardio"
+  }
+]
